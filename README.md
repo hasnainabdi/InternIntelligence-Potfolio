@@ -1,7 +1,7 @@
 # Portfolio Website - Muhammad Hasnain
 
 ## Project Overview
-This is a personal portfolio website designed to showcase skills, experience, and projects in a professional and interactive way. The website includes animations, a well-structured layout, and an engaging UI to enhance user experience. Additionally, a rating and comment section has been implemented for feedback.
+This personal portfolio website is designed to showcase skills, experience, and projects professionally and interactively. The website includes animations, a well-structured layout, and an engaging UI to enhance user experience. Additionally, a rating and comment section has been implemented for feedback.
 
 ## Features
 - **Dynamic Introduction**: A visually appealing welcome section with animations.
